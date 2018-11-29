@@ -1,0 +1,96 @@
+#owl-demo {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#owl-demo .item {
+	display: block;
+}
+
+#owl-demo img {
+	display: block;
+	width: 100%;
+}
+
+.row h2 {
+	color: #FDD130;
+	font-weight: bold;
+	padding-left: 20px;
+}
+
+.row .about h4 {
+	line-height: 1.9em;
+	font-family: "微软雅黑" font-size: 14px;
+	font-weight: normal;
+	padding-left: 20px;
+}
+
+.row .about p {
+	line-height: 2em;
+	font-family: arial;
+	font-size: 14px;
+	color: #666;
+	font-weight: normal;
+	padding-left: 20px;
+}
+
+.row .about p span {
+	color: #F57D00;
+	font-family: arial;
+	font-size: 14px;
+	font-weight: normal;
+}
+
+.row ul {
+	margin: 0px -20px;
+}
+
+.row ul li {
+	float: left;
+	width: 23.5%;
+	list-style: none;
+}
+
+.about-img {
+	margin: 10px 20px;
+	width: 93%;
+	padding: 8px;
+	border: dashed 1px #E6E6E6;
+}
+
+.services {
+	margin-top: 60px;
+}
+
+.row .services h1 {
+	display: block;
+	padding: 20px 30px;
+}
+
+.row .services h4 {
+	line-height: 1.9em;
+	font-family: "微软雅黑" font-size: 14px;
+	font-weight: normal;
+	padding: 0px 20px;
+	color: #985F0D;
+}
+
+.row .services p {
+	line-height: 2em;
+	font-family: "微软雅黑";
+	font-size: 14px;
+	color: #8C8C8C;
+	font-weight: normal;
+	padding: 0px 20px;
+}
+
+.footer {
+	margin-top: 50px;
+	background-color: #000000;
+	padding: 20px 0px;
+}
+
+.footer p {
+	text-align: center;
+	padding-top: 10px;
+}

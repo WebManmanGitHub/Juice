@@ -1,0 +1,46 @@
+body {
+				background: url(../img/1gdwxu321u2.jpg) no-repeat 0px 0px;
+				background-size: cover;
+			}
+			.container{
+				background: rgba(250,250,250,0);
+			}
+			.suggest{
+				background: rgba(0, 0, 0, 0.6);
+				
+			}
+			.left {
+				padding: 170px 50px;
+				color: white;
+				/*width: 550px;
+				height: 650px;*/
+				background-color: rgba(0, 0, 0, 0.6);
+			}
+			
+			.right {
+				/*float: right;*/
+				padding-top: 170px;
+				/*margin-left: 40px;*/
+			}
+			
+			.right input:hover {
+				background-color: #EA7171;
+			}
+			
+			.duo {
+				margin-top: 10px;
+				font-weight: bold;
+			}
+			
+			.la {
+				margin-right: 15px;
+			}			
+			.footer {
+				background-color: #000000;				
+				padding: 20px 0px;
+			}
+			.footer p{
+				margin-top: 50px;
+				text-align: center;
+				padding-top:10px ;
+			}

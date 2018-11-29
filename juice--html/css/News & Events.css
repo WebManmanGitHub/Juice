@@ -1,0 +1,51 @@
+.row .new img {
+	border: 1px #E3E3E3 dotted;
+	padding: 10px;
+}
+.new{
+	padding: 30px 0px;
+}
+h2{
+	color: #FDD130;
+	padding: 30px 0px;
+	font-weight: bold;
+}
+
+.time {
+	background-color: burlywood;
+	width: 90%;
+	text-align: center;
+	padding:10px 10px 5px;
+	font: "微软雅黑";
+	color:#FFFFFF;
+	margin-left: 20px;
+}
+
+.time p {
+	font-size: x-large;
+	font-weight: bold;
+}
+
+.time span {
+	display: block;
+	font-size: large;
+}
+
+.nei p {
+	margin-left: 20px;
+	font-size: 14px;
+	width: 95%;
+	margin-top: 30px;
+	line-height: 2em;
+	color: #8C8C8C;
+}
+.footer {
+	margin-top: 50px;
+	background-color: #000000;
+	padding: 20px 0px;
+}
+
+.footer p {
+	text-align: center;
+	padding-top: 10px;
+}
